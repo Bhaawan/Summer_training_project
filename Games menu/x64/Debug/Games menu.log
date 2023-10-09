@@ -1,0 +1,9 @@
+﻿  Games menu.cpp
+C:\Users\BHAAWAN\source\repos\Games menu\Games menu\Games menu.cpp(77,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\BHAAWAN\source\repos\Games menu\Games menu\Games menu.cpp(77,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\BHAAWAN\source\repos\Games menu\Games menu\Games menu.cpp(296,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\BHAAWAN\source\repos\Games menu\Games menu\Games menu.cpp(296,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\BHAAWAN\source\repos\Games menu\Games menu\Games menu.cpp(465,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\BHAAWAN\source\repos\Games menu\Games menu\Games menu.cpp(756,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\BHAAWAN\source\repos\Games menu\Games menu\Games menu.cpp(756,31): warning C4309: 'initializing': truncation of constant value
+  Games menu.vcxproj -> C:\Users\BHAAWAN\source\repos\Games menu\x64\Debug\Games menu.exe
